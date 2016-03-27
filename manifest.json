@@ -1,0 +1,19 @@
+{ "name": "Scratch",
+"description": "The Scratch website.",
+"version": "1.0",
+"manifest_version": 2,
+"icons": {
+"scratch-16.png": "scratch-128.png"
+},
+"app": {
+"urls": [
+"http://scratch.mit.edu/"
+],
+"launch": {
+"web_url": "http://scratch.mit.edu/"
+}
+},
+"permissions": [
+	
+]
+}
